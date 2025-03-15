@@ -1,0 +1,7 @@
+Tugas 1: Eksplorasi Dataset
+Pilih Dataset: Temukan dataset yang menarik bagi Anda. Anda bisa menggunakan dataset dari Kaggle, UCI Machine Learning Repository, atau dataset publik lainnya.
+Lakukan Exploratory Data Analysis (EDA):
+1.Tampilkan beberapa baris pertama dari dataset untuk memahami strukturnya.
+2.Identifikasi tipe data dari setiap kolom.
+3.Periksa apakah ada nilai yang hilang dan lakukan penanganan yang sesuai (misalnya, menghapus atau mengisi nilai yang hilang).
+4.Buat visualisasi dasar (seperti histogram, scatter plot, atau box plot) untuk memahami distribusi dan hubungan antar variabel.
